@@ -31,9 +31,6 @@ As imagens a seguir demonstram o design final e a funcionalidade dos filtros din
 ### 4. Demonstração de Filtro (BR)
 ![Demonstração da página Geografia com filtro ativo para a rodovia BR-101, mostrando a funcionalidade da segmentação por BRs na análise geográfica.](/img/filtro_101_geo.png)
 
-### 5. Detalhe da Modelagem/Tabela de Ranking
-![Exemplo de visualização detalhada ou do modelo de dados.](modelagem_ou_detalhe.png)
-
 ---
 
 ## 🛠️ Ferramentas Utilizadas
